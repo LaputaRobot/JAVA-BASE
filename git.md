@@ -10,8 +10,8 @@
 `git restore`将工作区的文件修改撤销，不涉及暂存区，`git restore --staged`将暂存区的内容撤销，恢复到和仓库一样的，而工作区的不会改变  
 `git reset`
 
-branch master修改
-通过originmaster1修改文件
- 切换branch到mybranch1 
- 再次通过mybranch1修改文件
+1. branch master修改
+2. 通过originmaster1修改文件
+3. 切换branch到mybranch1 
+4. 再次通过mybranch1修改文件
 5. 本地master修改

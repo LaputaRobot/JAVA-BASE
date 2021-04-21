@@ -12,3 +12,5 @@
 
 branch master修改
 通过originmaster1修改文件
+ 切换branch到mybranch1 
+ 再次通过mybranch1修改文件

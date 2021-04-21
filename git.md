@@ -14,3 +14,6 @@
 2. 通过originmaster1修改文件
 3. 切换branch到mybranch1 
 4. 再次通过mybranch1修改文件
+
+
+remotermaster分支上进行修改

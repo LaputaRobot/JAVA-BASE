@@ -15,3 +15,6 @@
 3. 切换branch到mybranch1 
 4. 再次通过mybranch1修改文件
 5. 本地master修改
+
+
+remotermaster分支上进行修改
